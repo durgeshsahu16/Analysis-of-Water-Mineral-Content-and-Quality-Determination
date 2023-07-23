@@ -12,10 +12,6 @@ You can download dataset from [here](https://www.kaggle.com/adityakadiwal/water-
 
 * Firstly we Clear the data and handled the missing Values:
 
-![Before](https://github.com/Isha307/ML-ProjectKart/blob/main/Water%20Quality/Images/missing%20values.png)
-
-![After](https://github.com/Isha307/ML-ProjectKart/blob/main/Water%20Quality/Images/filled%20values.png)
-
 * I did some feature scaling and feature Engineering.
 
 * Checked the accuracy using different classification algorithm.
