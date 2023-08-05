@@ -4,7 +4,8 @@ In the **Water Portability Project**, one of the crucial aspects is the comprehe
 
 ## District Division for Illustrative Purposes
 
-link: https://i0.wp.com/www.rajasthandirect.com/wp-content/uploads/2013/07/Churu-District-Map.jpg?fit=457%2C432&ssl=1
+![image](https://github.com/durgeshsahu16/Analysis-of-Water-Mineral-Content-and-Quality-Determination-at-Churu-Rajasthan/assets/127536328/24bd8895-9764-4656-bcbf-3a3b26bb50c3)
+
 
 The Churu district has been hypothetically divided into eight divisions to facilitate data collection and analysis. Each division has been further subdivided into ten zones. Again, this division is purely hypothetical and not based on official government records:
 
